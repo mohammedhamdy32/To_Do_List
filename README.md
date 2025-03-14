@@ -16,6 +16,9 @@ A simple, stylish To-Do List application built with **React Native** using the E
 - **Expo**: Development environment and runtime (tested on [snack.expo.dev](https://snack.expo.dev)).
 - **JavaScript**: Primary programming language.
 
+## Expo Snack link :
+https://snack.expo.dev/@mohammedhamdy32/to_do_list
+
 ## Installation
 
 1. **Clone the Repository**:
